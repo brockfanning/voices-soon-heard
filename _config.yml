@@ -1,0 +1,6 @@
+# Site settings
+title: Voices Soon Heard
+description: '[insert description here]'
+url: ''
+baseurl: /voices-soon-heard
+theme: jekyll-theme-architect
